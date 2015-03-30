@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: post
 title: Fair Ball
 ---
-
-# Fair Ball

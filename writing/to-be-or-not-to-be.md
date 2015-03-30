@@ -1,6 +1,4 @@
 ---
-layout: default
+layout: post
 title: To Be or Not To Be
 ---
-
-# To Be or Not To Be
