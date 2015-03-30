@@ -1,0 +1,7 @@
+serve: true
+port: 4000
+lsi: false
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+markdown: redcarpet
+permalink: /:year/:month/:day/:title
+baseurl: ""
