@@ -1,0 +1,19 @@
+---
+layout: default
+title: Chirps
+---
+
+<div class="row">
+  <div class="large-12 columns">
+    <h1>Chirps</h1>
+
+    <ul>
+      {% for post in site.tags.chirp %}
+        <li>
+          <span class="small-muted">{{ post.date | date_to_string }}</span> &raquo; 
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
