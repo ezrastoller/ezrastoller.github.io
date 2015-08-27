@@ -9,6 +9,6 @@ What inspired her to try this look and stick with it? As styles changed through 
 
 Right now, I'm really happy with my hairdo - shorter on the sides, longer and swept to the side on top. Maybe I'll stick with this style for a while until I'm a grandparent. 
 
-But I guess I had thought that about my hair when I had a buzzcut, just a couple years ago. 
+But, I guess I had thought that about my hair when I had a buzzcut, just a couple years ago. 
 
 
