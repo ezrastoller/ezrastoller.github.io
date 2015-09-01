@@ -3,7 +3,7 @@ layout: post
 title: Reading a Parenting Book
 tags: chirp
 ---
-I was recently sitting in my parents' bedroom with my dad, while he read the newspaper. I was staring at the bookshelf by the window and noticed a book, *Does Anybody Else Look Like Me? A Parent's Guide to Raising Multiracial Children*. I had never noticed it before.
+I was recently sitting in my parents' bedroom with my dad, while he read the newspaper. I was staring at the bookshelf and noticed a book, *Does Anybody Else Look Like Me? A Parent's Guide to Raising Multiracial Children*. I had never noticed it before.
 
 I bid my dad good night, and sat in my bed reading it. It was bizarre, funny and a little uncomfortable, but I couldn't stop.
 
