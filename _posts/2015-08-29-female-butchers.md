@@ -7,5 +7,5 @@ I have been to Guerra Meats more times than I can count. Today, I made the famil
 
 Then, I started to think about other grocery stores where my family often goes to buy meat. All the familiar faces behind the counters at our favorite Asian markets, at Andronico's, and Tower Market were all men.
 
-I realize that my sample size here is small, and that female butchers must exist. But this did make me think more broadly about how things are so arbitrarily gendered.  Traditionally women eat and prepare meat quite a bit when dealing with all that is domestic. But why then, is butchering and grilling so often dad's job on July 4th?
+I realize that my sample size here is small, and that female butchers must exist. But, this did make me think more broadly about how things are so arbitrarily gendered.  Traditionally women eat and prepare meat quite a bit when dealing with all that is domestic. But why then is butchering and grilling so often dad's job on July 4th?
 
