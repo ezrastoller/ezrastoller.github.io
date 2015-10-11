@@ -23,4 +23,16 @@ The barking started again. I hadn't been cleared by Senqui to use the bathroom. 
 
 I'm still gaining Senqui clearance to go to different parts of the apartment, but have gradually become more comfortable around him. I'm still not quite sure what to do around dogs, but don't feel so stressed about not knowing what to do. Senqui, thank you for your patience with a new guest in the apartment. I still think you're crazy, but I also admit that you are fluffy and cute as well. 
 
+<div class="row">
+  <div class="large-12 columns">
+    <h3>Senqui</h3>
+  </div>
+</div>
 
+<div class="row">
+  <div class="large-4 small-12 columns">
+    <img src="/images/Senqui.jpg">
+    <p>
+     ~What a guy~
+    </p>
+  </div>
