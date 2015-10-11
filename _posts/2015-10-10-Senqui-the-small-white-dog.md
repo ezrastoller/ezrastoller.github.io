@@ -16,7 +16,7 @@ We pulled into the garage of the apartment building and made our way to the fift
 Paws.
 
 <div class="row">
-  <div class="large-4 small-12 columns">
+  <div class="large-3 small-10 columns">
     <img src="/images/Senqui.JPG">
     <p>
      ~What a guy~
