@@ -1,0 +1,22 @@
+---
+layout: default
+title: Peru
+---
+<div class= "row">
+  <div class="large-12 columns">
+    <h1>Peru</h1>
+
+    <p>
+     Here are some things I have written about my time in Peru.
+    </p>
+
+    <ul>
+      {% for post in site.tags.peru %}
+        <li>
+          <span class="small-muted">{{ post.date | date_to_string }}</span> &raquo; 
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
