@@ -19,7 +19,7 @@ Paws.
   <div class="large-3 small-10 columns">
     <img src="/images/Senqui.JPG">
     <p>
-     ~What a guy~
+     <center>~What a guy~</center>
     </p>
   </div>
 
