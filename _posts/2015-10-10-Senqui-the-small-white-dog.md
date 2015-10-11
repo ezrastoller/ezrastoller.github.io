@@ -14,7 +14,6 @@ Wendy generously offered to pick me up from the airport. On our way back to her 
 We pulled into the garage of the apartment building and made our way to the fifth floor of the building. I walked to my room, put down my things and took a look around. Nice, clean bed. Access to a small balcony. I couldn't complain. As I walked out of my room towards the kitchen, I heard a skid of paws on the hardwood floors.
 
 Paws.
-
 <div class="row">
   <div class="large-4 small-12 columns">
     <img src="/images/Senqui.JPG ">
