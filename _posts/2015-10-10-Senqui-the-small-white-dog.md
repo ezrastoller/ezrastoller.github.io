@@ -15,8 +15,8 @@ Wendy generously offered to pick me up from the airport. On our way back to her 
 We pulled into the garage of the apartment building and made our way to the fifth floor of the building. I walked to my room, put down my things and took a look around. Nice, clean bed. Access to a small balcony. I couldn't complain. As I walked out of my room towards the kitchen, I heard a skid of paws on the hardwood floors.
 
 Paws.
-
-![~What a guy~](/images/Senqui.JPG =100x)
+![~what a guy~](/images/Senqui.JPG)
+~what a guy~
 
 An energetic white dog stood in front of the kitchen and wouldn't let me through. The dog would not stop barking. I didn't know what to do. Every time I tried to pet the dog, the dog jumped up at me. I probably started releasing stress pheromones that the dog sensed, which then spiraled out of the control in horrible positive feedback loop. 
 
