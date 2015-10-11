@@ -3,6 +3,7 @@ layout: post
 title: Senqui, the Small, White Dog
 tags: peru
 ---
+
 I am not very comfortable around animals. I never know what to do. Should I pet them? What if they don't like me? How do I give them attention, but also maintain personal space? Is it condescending to talk to them in incomplete sentences?
 
 ~
