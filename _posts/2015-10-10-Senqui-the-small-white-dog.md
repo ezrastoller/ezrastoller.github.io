@@ -21,6 +21,7 @@ Paws.
     ~What a guy~
     </p>
   </div>
+</div>
   
 An energetic white dog stood in front of the kitchen and wouldn't let me through. The dog would not stop barking. I didn't know what to do. Every time I tried to pet the dog, the dog jumped up at me. I probably started releasing stress pheromones that the dog sensed, which then spiraled out of the control in horrible positive feedback loop. 
 
