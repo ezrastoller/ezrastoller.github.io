@@ -15,6 +15,14 @@ We pulled into the garage of the apartment building and made our way to the fift
 
 Paws.
 
+<div class="row">
+  <div class="large-4 small-12 columns">
+    <img src="/images/Senqui.JPG">
+    <p>
+     ~What a guy~
+    </p>
+  </div>
+
 An energetic white dog stood in front of the kitchen and wouldn't let me through. The dog would not stop barking. I didn't know what to do. Every time I tried to pet the dog, the dog jumped up at me. I probably started releasing stress pheromones that the dog sensed, which then spiraled out of the control in horrible positive feedback loop. 
 
 Eventually I sat on the floor and was no longer towering over Senqui, the word in Tibetan for lion, pronounced in Spanish. Senqui gradually let me pet him, and after petting behind his ears, he seemed to calm down and let me into the kitchen. After a delicious homecooked lunch of arroz con pollo, I went to use the bathroom. 
@@ -23,16 +31,3 @@ The barking started again. I hadn't been cleared by Senqui to use the bathroom. 
 
 I'm still gaining Senqui clearance to go to different parts of the apartment, but have gradually become more comfortable around him. I'm still not quite sure what to do around dogs, but don't feel so stressed about not knowing what to do. Senqui, thank you for your patience with a new guest in the apartment. I still think you're crazy, but I also admit that you are fluffy and cute as well. 
 
-<div class="row">
-  <div class="large-12 columns">
-    <h3>Senqui</h3>
-  </div>
-</div>
-
-<div class="row">
-  <div class="large-4 small-12 columns">
-    <img src="/images/Senqui.jpg">
-    <p>
-     ~What a guy~
-    </p>
-  </div>
