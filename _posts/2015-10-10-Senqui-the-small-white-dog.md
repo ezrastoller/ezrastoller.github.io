@@ -14,17 +14,15 @@ Wendy generously offered to pick me up from the airport. On our way back to her 
 We pulled into the garage of the apartment building and made our way to the fifth floor of the building. I walked to my room, put down my things and took a look around. Nice, clean bed. Access to a small balcony. I couldn't complain. As I walked out of my room towards the kitchen, I heard a skid of paws on the hardwood floors.
 
 Paws.
-<div style="align: left; text-align:center;">
-    <img src="/images/Senqui.JPG " height="31px" width="200px" />
-    <div class="caption">~What a guy~</div>
-</div>
-.caption {
-    width: 200px;
-    text-align: center;
-}
 
-
-
+<div class="row">
+  <div class="large-4 small-12 columns">
+    <img src="/images/Senqui.JPG ">
+    <p>
+    ~What a guy~
+    </p>
+  </div>
+  
 An energetic white dog stood in front of the kitchen and wouldn't let me through. The dog would not stop barking. I didn't know what to do. Every time I tried to pet the dog, the dog jumped up at me. I probably started releasing stress pheromones that the dog sensed, which then spiraled out of the control in horrible positive feedback loop. 
 
 Eventually I sat on the floor and was no longer towering over Senqui, the word in Tibetan for lion, pronounced in Spanish. Senqui gradually let me pet him, and after petting behind his ears, he seemed to calm down and let me into the kitchen. After a delicious homecooked lunch of arroz con pollo, I went to use the bathroom. 
