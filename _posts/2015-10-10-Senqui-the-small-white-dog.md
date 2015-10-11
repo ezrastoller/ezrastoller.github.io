@@ -14,6 +14,7 @@ Wendy generously offered to pick me up from the airport. On our way back to her 
 We pulled into the garage of the apartment building and made our way to the fifth floor of the building. I walked to my room, put down my things and took a look around. Nice, clean bed. Access to a small balcony. I couldn't complain. As I walked out of my room towards the kitchen, I heard a skid of paws on the hardwood floors.
 
 Paws.
+
 <div class="row">
   <div class="large-4 small-12 columns">
     <img src="/images/Senqui.JPG ">
@@ -29,5 +30,5 @@ Eventually I sat on the floor and was no longer towering over Senqui, the word i
 
 The barking started again. I hadn't been cleared by Senqui to use the bathroom. I sat back down on the floor, pet Senqui on the tummy, and spoke to him in broken Mandarin and Spanish. "¿Estás loco?" I asked him. “干嘛啊?” Eventually I was cleared to use the bathroom. 
 
-I'm still gaining Senqui clearance to go to different parts of the apartment, but have gradually become more comfortable around him. I'm still not quite sure what to do around dogs, but don't feel so stressed about not knowing what to do. Senqui, thank you for your patience with a new guest in the apartment. I still think you're crazy, but I also admit that you are fluffy and cute as well. 
+I'm still gaining Senqui's clearance to go to different parts of the apartment, but have gradually become more comfortable around him. I'm still not quite sure what to do around dogs, but don't feel so stressed about not knowing what to do. Senqui, thank you for your patience with a new guest in the apartment. I still think you're crazy, but I also admit that you are fluffy and cute as well. 
 
