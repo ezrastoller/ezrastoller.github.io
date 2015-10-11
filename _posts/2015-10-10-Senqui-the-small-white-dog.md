@@ -17,9 +17,9 @@ Paws.
 
 <div class="row">
   <div class="large-3 small-10 columns">
-    <img src="/images/Senqui.JPG">
+    <img style= float: left; src="/images/Senqui.JPG">
     <p>
-     <center>~What a guy~</center>
+     ~What a guy~
     </p>
   </div>
 
