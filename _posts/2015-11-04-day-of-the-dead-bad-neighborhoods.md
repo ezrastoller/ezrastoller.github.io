@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Day of the Dead and Bad Neighborhoods 
+title:The Day of the Dead and Bad Neighborhoods 
 tags: peru
 ---
 I thoroughly enjoyed the Day of the Dead - probably one of my favorite days in Peru so far. Here in Peru known as the el Día de los Difuntos, or the day of the departed, cemeteries were filled with families visiting the tombs of loved ones who have passed away. In school in San Francisco, the quick lessons about el día de los muertos often focused on Mexican traditions, sugar skulls, and face paint. In other words, my knowledge about the holiday is pretty limited. 
