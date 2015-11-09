@@ -19,6 +19,6 @@ Me: I would,
 
 
 
-It probably sent a funny message and clarified with him that I had nothing further to add. I realized though, that ending a text with an unnecessary comma is a fun, pretty harmless troll that inserts a cliffhanger and suspense into everyday conversation. Every once in a while, this is a fun troll to fall back on.
+It probably sent a funny message and I quickly clarified with him that I had nothing further to add. I realized though, that ending a text with an unnecessary comma is a fun, pretty harmless troll that inserts a cliffhanger and suspense into everyday conversation. Every once in a while, this is a fun troll to fall back on.
 
 
