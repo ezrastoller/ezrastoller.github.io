@@ -3,7 +3,7 @@ layout: post
 title: Fraternities 
 tags: chirp
 ---
-My host brother and I recently went out for burgers. Our meal felt quite American, down to the texture of the paper our burgers were wrapped in; the only difference Inca Kola in our hands instead of Coke. 
+My host brother and I recently went out for burgers. Our meal felt quite American, down to the paper our burgers were wrapped in; the only difference was the Inca Kola instead of Coke in our hands. 
 
 
 "You weren't in a fraternity, were you?"
