@@ -1,0 +1,24 @@
+---
+layout: post
+title: Arequipa & Estar Muerto
+tags: peru
+---
+I had a really great week in Arequipa in southern Peru in early December attending the Hay Festival, an arts and literature festival. I met people from all over, got a meal and visited Mario Vargas Llosa's home with a *New Yorker* staff writer who as a student at Harvard also wrote for *The Harvard Advocate*, heard Daniel Alarcón talk about Radio Ambulante and listened to an Oxford math professor talk about the math of Jackson pollack. The city's architecture, pre Christmas cheer, regional Wititi dance festival and mountains surrounding the city all charmed my socks off. 
+
+My mood during the trip was a bit all over the place though. A couple after I arrived, I heard from my parents that my grandma passed away. My dad's mom, whom I call Nanny, had not being well for some time, and suffered from dementia and had become quite physically frail. She died peacefully at the ripe age of 91. It was odd to be far from my family and to be meeting people for the first time while feeling a little off and not my normal chipper self. I didn't know exactly how to bring it up with friends who I'm in text contact with. I felt sad thinking about my dad, who now has lost both of his parents. I reflected on how I was never particularly close with her, but still am quite fond of her nonetheless. 
+
+One of my favorite days of my time in Peru thus far was the [Day of the Dead] (http://ezrastoller.github.io/2015/11/04/day-of-the-dead-bad-neighborhoods/), and enjoyed visiting a couple cemeteries. The balance of somber and cheerful, and as my dad would call it, the "good tumult" of kids running around, and people selling flowers and food, was a sight to behold. I loved the day because it both acknowledged the passing of the dead, while also celebrating their lives and lasting legacies. Those who are dead are gone, and yet are also right here, alive and well in the love and lessons they shared and the mannerisms we have subconsciously adopted. 
+
+A couple times a week, I pass a large billboard that in bold yellow letters asks the passerby, "¿Estás muerto?" ("Are you dead?"). It's an ad for the energy drink. The ad is a little extreme, but I clearly still remember it, so it must be doing something right.
+
+Spanish, like many languages, has two verbs to express the one English verb 'to be.' Ser is used often to describe more permanent characteristics of being or existence, while estar refers to temporary states of being, like emotion or location. Yet in Spanish, you use the verb estar to say someone is dead.
+
+There are a few ways of explaining this oddity. One way some teachers explain the difference between ser and estar is by saying ser is used to compare something or someone to the rest of the world ('Ezra is boy' compared to the world of people who are boys or girls), while estar is used to compare something or someone to itself ('Ezra is tired' compared to other times when Ezra was not tired). Using this logic, saying someone is dead is a comparison to that person's previous state of being alive.
+
+I sort of buy that explanation. 
+
+Beyond the grammatical justification, there seems to be an existential explanation, as the use of estar challenges Spanish speakers to think about life and death both as temporary states. While is it pretty straight forward to think of life as a temporary state as we are all constantly reminded by the fleeting nature of our own existences, Nanny's passing and my living in a Spanish speaking country has pushed me to consider what death as a temporary state would mean. Death as a permanent state seems to imply that those who are dead are gone forever. While that is true to a point, the use of estar highlights the ways in which death is not tantamount to complete disappearance or absence. Rather, it shifts the focus, perhaps subconsciously, to the ways the dead live on as well. 
+
+I am appreciative of how engaged Nanny was with art for so much of her adult life as she served as a docent at LACMA for over 30 years and how much she loved learning and teaching others about art. Nanny's love of art was infectious. Right now, I am working on a long term art project here in Peru, and my cousin Emily, who studied art history, now works at the Asian Art Museum in San Francisco.
+
+For me, the [hands test](http://ezrastoller.github.io/2015/12/01/the-hands-test/) (can you visualize someone's hands) is a good metric for me to test how close I feel to someone. As much as I wish I had been closer to Nanny, I find comfort in knowing that she passes the hands test with flying colors. In many ways, Nanny and I were quite different, Nanny being the tall, elegant blonde, and me, the shorter-side-of-average Asian boy. Yet, our hands look quite similar, our fingers long and slender relative to the size of our palms. I don't need to look far to see Nanny's lasting legacy. All I have to do is look down. 
