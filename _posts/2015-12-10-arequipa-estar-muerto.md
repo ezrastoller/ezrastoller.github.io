@@ -9,7 +9,7 @@ My mood during the trip was a bit all over the place though. A couple days after
 
 One of my favorite days of my time in Peru thus far was the [Day of the Dead] (http://ezrastoller.github.io/2015/11/04/day-of-the-dead-bad-neighborhoods/), and enjoyed visiting a couple cemeteries. The balance of somber and cheerful, and as my dad would call it, the "good tumult" of kids running around, and people selling flowers and food, was a sight to behold. I loved the day because it both acknowledged the passing of the dead, while also celebrating their lives and lasting legacies. Those who are dead are gone, and yet are also right here, alive and well in the love and lessons they shared and the mannerisms we have subconsciously adopted. 
 
-A couple times a week, I pass a large billboard that in bold yellow letters asks the passerby, "¿Estás muerto?" ("Are you dead?"). It's an ad for the energy drink. The ad is a little extreme, but I clearly still remember it, so it must be doing something right.
+A couple times a week, I pass a large billboard that in bold yellow letters asks the passerby, "¿Estás muerto?" ("Are you dead?"). It's an ad for an energy drink. The ad is a little extreme, but I clearly still remember it, so it must be doing something right.
 
 Spanish, like many languages, has two verbs to express the one English verb 'to be.' Ser is used often to describe more permanent characteristics of being or existence, while estar refers to temporary states of being, like emotion or location. Yet in Spanish, you use the verb estar to say someone is dead.
 
