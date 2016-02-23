@@ -1,4 +1,10 @@
 source 'https://rubygems.org'
 
-gem "jekyll", "~> 2.5.3"
-gem 'redcarpet'
+gem "jekyll", "~> 3.1.2"
+gem "jekyll-pagination"
+gem "jekyll-watch"
+gem "rouge"
+gem "kramdown"
+
+gem "gsl"
+gem "narray"
