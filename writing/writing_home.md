@@ -2,7 +2,7 @@
 layout: post
 title: Writing Home
 ---
-Writing Home
+WRITING HOME
 
 Characters: ANDREW, LUCY, FATHER.
 
