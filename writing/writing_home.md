@@ -4,7 +4,7 @@ title: Writing Home
 ---
 Writing Home
 
-Characters: Andrew, Lucy, Father.
+Characters: ANDREW, LUCY, FATHER.
 
 Andrew is seated atop a log in a soldiers camp, writing two letters. One is to his father and one to his girlfriend, Lucy. 
 ____
