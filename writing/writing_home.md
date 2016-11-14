@@ -3,9 +3,11 @@ layout: post
 title: Writing Home
 ---
 Writing Home
+
 Characters: Andrew, Lucy, Father.
 
 Andrew is seated atop a log in a soldiers camp, writing two letters. One is to his father and one to his girlfriend, Lucy. 
+____
 
 **ANDREW** (Writing on the paper to his left): Dear Lucy, my love -
 
