@@ -5,6 +5,7 @@ title: Proposal
 Characters: JOSH, RACHEL, MATT, AMY, WAITER, SOME DANCERS.
 
 Setting: A restaurant. 
+
 ******
 
 Two tables, four people seated. Josh and Rachel sitting at one table, and Matt and Amy sitting at the other. Matt and Amy in soft freeze having a great time. Lights up on Josh and Rachel, lights dim on Matt and Amy.
