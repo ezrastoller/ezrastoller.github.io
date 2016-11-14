@@ -4,7 +4,7 @@ title: A House Divided
 ---
 A House Divided
 
-Characters: LINCOLN, SECRETARY SEWARD, REPRESENTATIVE BIRD, REPRESENTATIVE LOGAN
+Characters: LINCOLN, SECRETARY SEWARD, REPRESENTATIVE BIRD, REPRESENTATIVE LOGAN.
 
 Setting: Around a table in a conference room.
 ______
