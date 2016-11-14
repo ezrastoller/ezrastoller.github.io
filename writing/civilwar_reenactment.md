@@ -3,12 +3,10 @@ layout: post
 title: Civil War Re-Enactment
 ---
 
-CIVIL WAR RE-ENACTMENT
-
 Characters: HANK, GARY, JACOB, ARTHUR, DENISE, MARCO, BOB, TRENT, DIANE.
 
 Setting: A large empty field in rural Tennessee.
-_______
+******
 
 **HANK**: Days 1 and 2 of the Battle Re-enactment were great, guys. But let’s make day 3 the best one ever. We have a couple school groups scheduled and a few families, too. You guys have been working really, really hard and I want to remind you guys to dig deep. You will get tired, but you are strong. 
 
