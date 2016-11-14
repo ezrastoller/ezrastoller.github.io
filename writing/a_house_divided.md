@@ -2,11 +2,12 @@
 layout: post
 title: A House Divided
 ---
-**A House Divided**
+A House Divided
 
 Characters: LINCOLN, SECRETARY SEWARD, REPRESENTATIVE BIRD, REPRESENTATIVE LOGAN
 
 Setting: Around a table in a conference room.
+______
 
 **REPRESENTATIVE BIRD**: Congratulations, Mr. Lincoln on your senate nomination. The Republican party loves your chances for winning Illinois.
 
