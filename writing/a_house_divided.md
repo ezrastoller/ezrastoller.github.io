@@ -2,7 +2,7 @@
 layout: post
 title: A House Divided
 ---
-A House Divided
+A HOUSE DIVIDED
 
 Characters: LINCOLN, SECRETARY SEWARD, REPRESENTATIVE BIRD, REPRESENTATIVE LOGAN.
 
