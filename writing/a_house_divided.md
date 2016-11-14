@@ -2,8 +2,6 @@
 layout: post
 title: A House Divided
 ---
-## A HOUSE DIVIDED
-
 Characters: LINCOLN, SECRETARY SEWARD, REPRESENTATIVE BIRD, REPRESENTATIVE LOGAN.
 
 Setting: Around a table in a conference room.
