@@ -57,13 +57,13 @@ Waiter exits.
 
 Lights come up on Matt and Amy, and they’re having a GREAT date.
 
-**MAT**T: Oh my god, I find water hydrating, too.
+**MATT**: Oh my god, I find water hydrating, too.
 
 **AMY**: How have we never talked about this. I also love the texture.
 
 **MATT**: It’s so watery.
 
-**AMY**: Yea! (stares into each other’s eyes and reach and start holding hands on the table).
+**AMY** (staring into each other’s eyes and reach and start holding hands on the table): Yea!
 
 Waiter comes in with dessert for Josh and Rachel.
 
@@ -73,7 +73,7 @@ Josh is losing his shit. Rachel is about to take a bite of the cake.
 
 **RACHEL**: Oh, why aren’t you starting too? I won’t start til you do.
 
-**JOSH**: Okay (They both take a bite of their desserts) Wow, this is great. 
+**JOSH**: Okay. (They both take a bite of their desserts.) Wow, this is great. 
 
 **RACHEL**: Ew something’s off on this. Bitter, or something. I think I need to send this back.
 
@@ -87,7 +87,7 @@ Josh is losing his shit. Rachel is about to take a bite of the cake.
 
 She signals Waiter. At this moment, tubas start playing, a bunch of flash dancers come out.
 
-*MATT* (To Amy): I think it’s time for us the next step.
+**MATT** (To Amy): I think it’s time for us the next step.
 
 Techno music plays, Matt starts doing a choreographed dance routine with the dancers, they lift him up, Sam Clark does a split, Matt gets down on one knee.
 
@@ -105,7 +105,7 @@ A bunch of ladies come out with a sign that says yes. They do a choreographed da
 
 **RACHEL**: Jeez, that was the greatest thing I’ve ever seen in my life. If I ever get proposed to (pauses, looks suggestively at Josh), I want it to be like that. None of that cliche “find your ring in the dessert” stuff. (To waiter) This lava cake was bitter, it’s like there isn’t enough sugar or something.
 
-**WAITER** (looking at JOSH):  I’m so sorry about that, I’ll speak with chef and we can get another in a few min--
+**WAITER** (looking at Josh):  I’m so sorry about that, I’ll speak with chef and we can get another in a few min--
 
 **RACHEL**: You know, don’t worry about getting me another. I’m stuffed. If we could just get the check.
 
