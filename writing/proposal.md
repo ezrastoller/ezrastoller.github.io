@@ -2,7 +2,7 @@
 layout: post
 title: Proposal
 ---
-Proposal
+PROPOSAL
 
 Characters: JOSH, RACHEL, MATT, AMY, WAITER, SOME DANCERS.
 
