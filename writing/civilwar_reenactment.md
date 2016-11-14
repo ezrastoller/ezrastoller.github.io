@@ -3,7 +3,7 @@ layout: post
 title: Civil War Re-Enactment
 ---
 
-Civil War Re-Enactment
+CIVIL WAR RE-ENACTMENT
 
 Characters: HANK, GARY, JACOB, ARTHUR, DENISE, MARCO, BOB, TRENT, DIANE.
 
