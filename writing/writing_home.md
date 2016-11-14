@@ -63,7 +63,7 @@ LOUIS enters.
 
 **ANDREW** (Writing on the paper to his left): Best, Andrew Donald Hiddleston III.
 
-Andrew leaves the stage and we see his girlfriend Lucy enter stage left and his father enter stage right. We see them open their letters, nodding and reading along for most of it).
+Andrew leaves the stage and we see his girlfriend Lucy enter stage left and his father enter stage right. We see them open their letters, nodding and reading along for most of it.
 
 **LUCY**: ...It’s refreshing to have met a few men who see eye to eye with us on this matter. “It is difficult shaving here with the lack of soap and mirrors. I keep trying to go against the grain like you always do, but I have nicked my chin in a few tricky spots.” ?
 
